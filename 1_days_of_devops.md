@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Día 1: Configuración de usuario de Linux con shell no interactivo
+=======
+# Creación de usuario no interactivo en App Server 3
+>>>>>>> 6c7e0294bacc6af3aff8fb53bc69d1611b9d8be6
 
 ## Objetivo
 
@@ -107,4 +111,8 @@ Esto indica que:
 
 ## Conclusión
 
+<<<<<<< HEAD
 El usuario **anita** fue creado con éxito en **App Server 3**, cumpliendo los requisitos de la herramienta de backup y garantizando que no pueda iniciar sesión de manera interactiva.
+=======
+El usuario **anita** fue creado con éxito en **App Server 3**, cumpliendo los requisitos de la herramienta de backup y garantizando que no pueda iniciar sesión de manera interactiva.
+>>>>>>> 6c7e0294bacc6af3aff8fb53bc69d1611b9d8be6
