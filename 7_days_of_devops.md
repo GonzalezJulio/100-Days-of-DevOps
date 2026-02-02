@@ -1,4 +1,4 @@
-# Día 3 – Gestión de SSH y Seguridad Básica
+# Día 7 – Gestión de SSH y Seguridad Básica
 
 ## Objetivo
 Fortalecer la seguridad de los servidores Linux restringiendo accesos inseguros mediante SSH.

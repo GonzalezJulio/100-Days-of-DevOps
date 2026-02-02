@@ -1,4 +1,4 @@
-# Día 5 – SELinux: Instalación y Deshabilitado Permanente
+# Día 6 – SELinux: Instalación y Deshabilitado Permanente
 
 ## 🧩 Objetivo del laboratorio
 Instalar SELinux en App Server 1 y deshabilitarlo de forma permanente para pruebas iniciales.
